@@ -1,0 +1,2 @@
+mca-status | grep signal
+cat /tmp/system.cfg  | grep resolv.host.1.name
