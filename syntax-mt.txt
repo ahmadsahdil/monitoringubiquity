@@ -1,0 +1,2 @@
+system resource print
+system identity print
